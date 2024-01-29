@@ -1,0 +1,1 @@
+# sivt-pokladna-implementace
